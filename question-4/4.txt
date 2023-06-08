@@ -1,0 +1,38 @@
+
+## a. 
+If you increase the number of processors, you can 
+increase the rate of completing operations. Setting it to 
+the maximum may use up all of the resources for the VM 
+and block background tasks on the host OS. 
+
+
+## b. 
+
+None makes virtualization disabled, Legacy is for older 
+versions of virtual machines. Minimal is necessary for 
+macOS,, HyperV is recommended for Windows, and KVM is 
+recommended for Linux.
+KVM would be best for Ubuntu Linux as it is most 
+recommended for Linux guest OS.
+
+
+## c. 
+IDE is meant for porting a hard disk or CD ROM disk. 
+SATA is faster and supports SSD. and was built for HDD. 
+NVMe is newer and connects SSD devices.
+
+
+## d. 
+
+NAT can connect over IP on external networks similar to 
+the host. Bridged Adapter can as well but directly. 
+Host-only Network restricts access to only the host, and 
+Internal Network restricts even further.
+
+
+## e. 
+1.1 is used to connect the keyboard and mouse, and every 
+VM supports these features. 2.0 and 3.0 are similar, but 
+3.0 is faster to transfer data with a bandwidth of 4.8 
+Gbps, 10 times the amount of 2.0.
+

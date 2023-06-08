@@ -1,0 +1,164 @@
+
+## ssh
+Logs into a remote host with a secure connection
+
+## ssh-keygen
+Creates a new public and private key for encrypted 
+communication
+
+## scp
+Securely copies contents of source file into 
+destination file rewriting destination file
+
+## history
+Displays history of user's commands
+
+## sudo
+Exexutes given command as superuser which has special 
+access
+
+## ip
+View and edit network interfaces
+
+## dd
+Copies contents of source file into destination file 
+rewriting destination file, by default from standard 
+input to standard output, showing stats on transfer
+
+## apt
+Package manager for installing things
+
+## vi
+Text editor for editing files in terminal
+
+## time
+Displays the time it took to execute programs in 
+seconds
+
+## tar
+Creates taped files
+
+## cat
+Displays contents of file
+
+## watch
+Runs a command every length of an interval to see how 
+the ouput changes
+
+## ps
+Displays user processes in progress with info
+
+## top
+Displays info about processes and cpu information 
+updated  dynamically
+
+## htop
+Interactive version of top
+
+## gcc
+Compiles a C program into object files for running
+
+## tail
+Displays the given amountof the end of a file
+
+## grep
+Finds a given text pattern in given input data
+
+## kill
+Kills a given process/job
+
+## killall
+Kills all given processes
+
+## du
+Displays disk usage information
+
+## df
+Displays disk space available
+
+## screen
+Lets the user make a new session that runs despite 
+ssh conection dropping
+
+## vim
+Text editor for editing files in terminal
+
+## chmod
+Changes user permissions of a file
+
+## chown
+Changes ownership of a file
+
+## useradd
+Creates a new user
+
+## man
+Show manual for a command
+
+## locate
+Finds a given name of file or directory
+
+## find
+Finds files that match the given condition
+
+## sed
+Perform string operations on a given file
+
+## awk
+Perform parsing and text processing operations on a 
+given file
+
+## diff
+Displays the differences between given files
+
+## sort
+Sorts given file by given sorting spec
+
+## export
+Lets variables be used in child processes
+
+## pwd
+Prints working directory
+
+## crontab
+Manipulates chronological table for running commands 
+on a regular schedule
+
+## mount
+Makes a storage device accessible to an existing 
+directory
+
+## passwd
+Change user password
+
+## uname
+Displays info about the system
+
+## whereis
+Shows location of given file or program
+
+## su
+Changes to the super user
+
+## ping
+Sends ICMP5 echo request to given host
+
+## traceroute
+Shows which route packets take from given host to 
+target machines
+
+## date
+Displays the date
+
+## wget
+Downloads files from the internet
+
+## wc
+Displays word count in given file
+
+## pwgen
+Generates passwords
+
+
+
+
